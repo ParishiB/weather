@@ -90,16 +90,18 @@ export default function Home() {
   }, [favArr]);
 
   return (
-    <Suspense>
-      <div>
+    <div>
+      <Suspense fallback={<div>Loading Weather...</div>}>
         <Weather
           locality_id={locality_id}
           area={area}
           favArr={favArr}
           setFavArr={setFavArr}
         />
+      </Suspense>
+      <Suspense fallback={<div>Loading Top Search...</div>}>
         <TopSearch />
-      </div>
-    </Suspense>
+      </Suspense>
+    </div>
   );
 }
