@@ -75,10 +75,6 @@ import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import TopSearch from "../components/TopSearch";
 
-const SuspenseWrapper: React.FC<{ children: React.ReactNode }> = ({
-  children,
-}) => <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>;
-
 export default function Home() {
   const searchParams = useSearchParams();
   const locality_id = searchParams.get("locality_id");
@@ -94,7 +90,7 @@ export default function Home() {
   }, [favArr]);
 
   return (
-    <SuspenseWrapper>
+    <Suspense>
       <div>
         <Weather
           locality_id={locality_id}
@@ -104,6 +100,6 @@ export default function Home() {
         />
         <TopSearch />
       </div>
-    </SuspenseWrapper>
+    </Suspense>
   );
 }
