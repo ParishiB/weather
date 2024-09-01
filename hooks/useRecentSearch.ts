@@ -1,4 +1,3 @@
-// hooks/useRecentSearches.ts
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { check_data } from "./../app/Utils/global"; // Adjust the import path as necessary
