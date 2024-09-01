@@ -45,21 +45,16 @@
 import React, { useEffect } from "react";
 import { useRouter } from "next/navigation";
 import "./globals.css";
+
 function Page() {
   const router = useRouter();
 
   useEffect(() => {
-    const handleRedirect = () => {
-      router.push("/home");
-    };
-
     const timeoutId = setTimeout(() => {
-      handleRedirect();
+      router.push("/home");
     }, 5000);
 
-    return () => {
-      clearTimeout(timeoutId);
-    };
+    return () => clearTimeout(timeoutId);
   }, [router]);
 
   return (
