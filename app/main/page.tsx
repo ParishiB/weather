@@ -69,21 +69,26 @@
 // app/main/page.tsx
 "use client";
 
-import { Suspense } from "react";
-import Weather from "../components/Weather";
-import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
-import TopSearch from "../components/TopSearch";
+import dynamic from "next/dynamic";
+import { useSearchParams } from "next/navigation";
+import { useEffect, useState, Suspense } from "react";
 
-export default function Home() {
-  const router = useRouter();
-  const { query } = router;
-  const locality_id = query.locality_id as string | null;
-  const area = query.area as string | null;
+const Weather = dynamic(() => import("../components/Weather"), { ssr: false });
+const TopSearch = dynamic(() => import("../components/TopSearch"), {
+  ssr: false,
+});
+
+function HomeContent() {
+  const searchParams = useSearchParams();
+  const locality_id = searchParams.get("locality_id") || null;
+  const area = searchParams.get("area") || null;
 
   const [favArr, setFavArr] = useState<any[]>(() => {
-    const savedFavArr = localStorage.getItem("favArr");
-    return savedFavArr ? JSON.parse(savedFavArr) : [];
+    if (typeof window !== "undefined") {
+      const savedFavArr = localStorage.getItem("favArr");
+      return savedFavArr ? JSON.parse(savedFavArr) : [];
+    }
+    return [];
   });
 
   useEffect(() => {
@@ -92,17 +97,21 @@ export default function Home() {
 
   return (
     <div>
-      <Suspense fallback={<div>Loading Weather...</div>}>
-        <Weather
-          locality_id={locality_id}
-          area={area}
-          favArr={favArr}
-          setFavArr={setFavArr}
-        />
-      </Suspense>
-      <Suspense fallback={<div>Loading Top Search...</div>}>
-        <TopSearch />
-      </Suspense>
+      <Weather
+        locality_id={locality_id}
+        area={area}
+        favArr={favArr}
+        setFavArr={setFavArr}
+      />
+      <TopSearch />
     </div>
+  );
+}
+
+export default function Home() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <HomeContent />
+    </Suspense>
   );
 }
