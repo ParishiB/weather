@@ -1,0 +1,3314 @@
+[
+  {
+    "city": "Delhi NCR",
+    "area": "Sarita Vihar",
+    "locality_id": "ZWL005764",
+    "latitude": 28.531759,
+    "longitude": 77.293973
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Faridabad Sector 41-50",
+    "locality_id": "ZWL008752",
+    "latitude": 28.460895,
+    "longitude": 77.304764
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "New Friends Colony",
+    "locality_id": "ZWL005996",
+    "latitude": 28.565268,
+    "longitude": 77.274971
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 26 (Noida)",
+    "locality_id": "ZWL005243",
+    "latitude": 28.574404,
+    "longitude": 77.334178
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "New Industrial Town",
+    "locality_id": "ZWL009032",
+    "latitude": 28.375702,
+    "longitude": 77.299442
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Tilak Nagar",
+    "locality_id": "ZWL005428",
+    "latitude": 28.641372,
+    "longitude": 77.094689
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 10, Gurgaon",
+    "locality_id": "ZWL001073",
+    "latitude": 28.436077,
+    "longitude": 76.996757
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Ashok Vihar, Delhi",
+    "locality_id": "ZWL001319",
+    "latitude": 28.684453,
+    "longitude": 77.174418
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Kalkaji",
+    "locality_id": "ZWL004800",
+    "latitude": 28.529029,
+    "longitude": 77.258939
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 53",
+    "locality_id": "ZWL003118",
+    "latitude": 28.442743,
+    "longitude": 77.104379
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 49",
+    "locality_id": "ZWL002091",
+    "latitude": 28.408012,
+    "longitude": 77.050064
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Vasundhara",
+    "locality_id": "ZWL002662",
+    "latitude": 28.665225,
+    "longitude": 77.366782
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Rajinder Nagar",
+    "locality_id": "ZWL001404",
+    "latitude": 28.640732,
+    "longitude": 77.1829
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Safdarjung Enclave",
+    "locality_id": "ZWL008963",
+    "latitude": 28.562608,
+    "longitude": 77.191457
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Connaught Place",
+    "locality_id": "ZWL006538",
+    "latitude": 28.63063,
+    "longitude": 77.22064
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 66",
+    "locality_id": "ZWL003075",
+    "latitude": 28.380856,
+    "longitude": 77.062751
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 57",
+    "locality_id": "ZWL003721",
+    "latitude": 28.4221,
+    "longitude": 77.08274
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Moti Bagh, Delhi",
+    "locality_id": "ZWL006396",
+    "latitude": 28.575774,
+    "longitude": 77.180697
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Patel Nagar, Delhi",
+    "locality_id": "ZWL004535",
+    "latitude": 28.652848,
+    "longitude": 77.167909
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Greater Noida",
+    "locality_id": "ZWL008554",
+    "latitude": 28.456171,
+    "longitude": 77.521577
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Karkardooma, Delhi",
+    "locality_id": "ZWL004533",
+    "latitude": 28.656829,
+    "longitude": 77.310553
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Tigaon",
+    "locality_id": "ZWL002179",
+    "latitude": 28.41712,
+    "longitude": 77.412569
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 50 (Noida)",
+    "locality_id": "ZWL007487",
+    "latitude": 28.569103,
+    "longitude": 77.364876
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Vasant Kunj, Delhi",
+    "locality_id": "ZWL007120",
+    "latitude": 28.524633,
+    "longitude": 77.151206
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Dwarka, Delhi",
+    "locality_id": "ZWL007486",
+    "latitude": 28.594467,
+    "longitude": 77.047747
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Sector 15",
+    "locality_id": "ZWL006287",
+    "latitude": 28.457927,
+    "longitude": 77.034816
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Mayur Vihar Phase III",
+    "locality_id": "ZWL002146",
+    "latitude": 28.606,
+    "longitude": 77.323675
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Crossing Republik",
+    "locality_id": "ZWL008405",
+    "latitude": 28.635043,
+    "longitude": 77.419056
+  },
+  {
+    "city": "Delhi NCR",
+    "area": "Gurgaon Sector 56-57",
+    "locality_id": "ZWL003479",
+    "latitude": 28.44875,
+    "longitude": 77.048085
+  },
+
+  {
+    "city": "Kolkata",
+    "area": "Shibpur",
+    "locality_id": "ZWL003128",
+    "latitude": 22.578477,
+    "longitude": 88.315675
+  },
+  {
+    "city": "Kolkata",
+    "area": "Kalyani 1, Kolkata",
+    "locality_id": "ZWL004322",
+    "latitude": 22.983813,
+    "longitude": 88.427417
+  },
+  {
+    "city": "Kolkata",
+    "area": "Bansdroni",
+    "locality_id": "ZWL002495",
+    "latitude": 22.472208,
+    "longitude": 88.357875
+  },
+  {
+    "city": "Kolkata",
+    "area": "Bow Barracks",
+    "locality_id": "ZWL009257",
+    "latitude": 22.565476,
+    "longitude": 88.360918
+  },
+  {
+    "city": "Kolkata",
+    "area": "Baranagar, Kolkata",
+    "locality_id": "ZWL005435",
+    "latitude": 22.660464,
+    "longitude": 88.374255
+  },
+  {
+    "city": "Kolkata",
+    "area": "Sonarpur, Kolkata",
+    "locality_id": "ZWL007041",
+    "latitude": 22.432033,
+    "longitude": 88.408369
+  },
+  {
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "locality_id": "ZWL002918",
+    "latitude": 22.532686,
+    "longitude": 88.362677
+  },
+  {
+    "city": "Kolkata",
+    "area": "Sinthi, Kolkata",
+    "locality_id": "ZWL003388",
+    "latitude": 22.627697,
+    "longitude": 88.380719
+  },
+  {
+    "city": "Kolkata",
+    "area": "Salt Lake 2",
+    "locality_id": "ZWL008806",
+    "latitude": 22.58356,
+    "longitude": 88.432176
+  },
+  {
+    "city": "Kolkata",
+    "area": "Alipore",
+    "locality_id": "ZWL008635",
+    "latitude": 22.536626,
+    "longitude": 88.331142
+  },
+  {
+    "city": "Kolkata",
+    "area": "Baguihati",
+    "locality_id": "ZWL002312",
+    "latitude": 22.61499,
+    "longitude": 88.426184
+  },
+  {
+    "city": "Kolkata",
+    "area": "South Dum Dum",
+    "locality_id": "ZWL001499",
+    "latitude": 22.62157,
+    "longitude": 88.408915
+  },
+  {
+    "city": "Kolkata",
+    "area": "Purba Barisha",
+    "locality_id": "ZWL003315",
+    "latitude": 22.474612,
+    "longitude": 88.320775
+  },
+  {
+    "city": "Kolkata",
+    "area": "Jadavpur",
+    "locality_id": "ZWL003794",
+    "latitude": 22.49872,
+    "longitude": 88.36254
+  },
+  {
+    "city": "Kolkata",
+    "area": "Tollygunge",
+    "locality_id": "ZWL006574",
+    "latitude": 22.49862,
+    "longitude": 88.351732
+  },
+  {
+    "city": "Kolkata",
+    "area": "Shyam Bazar",
+    "locality_id": "ZWL004138",
+    "latitude": 22.594302,
+    "longitude": 88.377284
+  },
+  {
+    "city": "Kolkata",
+    "area": "Behala",
+    "locality_id": "ZWL009022",
+    "latitude": 22.488571,
+    "longitude": 88.30663
+  },
+  {
+    "city": "Kolkata",
+    "area": "Chandannagar, Kolkata",
+    "locality_id": "ZWL003271",
+    "latitude": 22.865442,
+    "longitude": 88.367339
+  },
+  {
+    "city": "Kolkata",
+    "area": "Barrackpore",
+    "locality_id": "ZWL003951",
+    "latitude": 22.766771,
+    "longitude": 88.361552
+  },
+  {
+    "city": "Kolkata",
+    "area": "East Kolkata Township",
+    "locality_id": "ZWL003915",
+    "latitude": 22.512832,
+    "longitude": 88.399411
+  },
+  {
+    "city": "Kolkata",
+    "area": "Bhowanipore",
+    "locality_id": "ZWL006750",
+    "latitude": 22.526436,
+    "longitude": 88.343904
+  },
+  {
+    "city": "Kolkata",
+    "area": "Elgin",
+    "locality_id": "ZWL008828",
+    "latitude": 22.543063,
+    "longitude": 88.356096
+  },
+  {
+    "city": "Kolkata",
+    "area": "Howrah",
+    "locality_id": "ZWL008426",
+    "latitude": 22.604678,
+    "longitude": 88.342218
+  },
+  {
+    "city": "Kolkata",
+    "area": "New Alipore",
+    "locality_id": "ZWL007323",
+    "latitude": 22.506135,
+    "longitude": 88.33277
+  },
+  {
+    "city": "Kolkata",
+    "area": "Barasat",
+    "locality_id": "ZWL006266",
+    "latitude": 22.735727,
+    "longitude": 88.490498
+  },
+  {
+    "city": "Kolkata",
+    "area": "New Town (Kolkata)",
+    "locality_id": "ZWL008393",
+    "latitude": 22.588818,
+    "longitude": 88.457964
+  },
+  {
+    "city": "Kolkata",
+    "area": "Uttarpara",
+    "locality_id": "ZWL007966",
+    "latitude": 22.69242,
+    "longitude": 88.3429
+  },
+  {
+    "city": "Kolkata",
+    "area": "Santoshpur",
+    "locality_id": "ZWL001039",
+    "latitude": 22.502107,
+    "longitude": 88.388897
+  },
+  {
+    "city": "Kolkata",
+    "area": "Liluah",
+    "locality_id": "ZWL003882",
+    "latitude": 22.635342,
+    "longitude": 88.343314
+  },
+  {
+    "city": "Kolkata",
+    "area": "Rajahhat",
+    "locality_id": "ZWL004925",
+    "latitude": 22.621505,
+    "longitude": 88.446915
+  },
+  {
+    "city": "Kolkata",
+    "area": "Park Street area",
+    "locality_id": "ZWL005244",
+    "latitude": 22.552632,
+    "longitude": 88.362888
+  },
+  {
+    "city": "Kolkata",
+    "area": "Baghajatin Colony",
+    "locality_id": "ZWL003687",
+    "latitude": 22.481243,
+    "longitude": 88.374932
+  },
+  {
+    "city": "Kolkata",
+    "area": "Shrirampur",
+    "locality_id": "ZWL008120",
+    "latitude": 22.735733,
+    "longitude": 88.344597
+  },
+  {
+    "city": "Kolkata",
+    "area": "Chhota Jagulia",
+    "locality_id": "ZWL007514",
+    "latitude": 22.759573,
+    "longitude": 88.747215
+  },
+  {
+    "city": "Kolkata",
+    "area": "Dum Dum",
+    "locality_id": "ZWL003935",
+    "latitude": 22.65631,
+    "longitude": 88.423694
+  },
+  {
+    "city": "Kolkata",
+    "area": "Kestopur",
+    "locality_id": "ZWL002931",
+    "latitude": 22.597524,
+    "longitude": 88.431114
+  },
+  {
+    "city": "Kolkata",
+    "area": "Sodepur",
+    "locality_id": "ZWL006521",
+    "latitude": 22.701254,
+    "longitude": 88.383329
+  },
+  {
+    "city": "Kolkata",
+    "area": "Nimta",
+    "locality_id": "ZWL005558",
+    "latitude": 22.670256,
+    "longitude": 88.413503
+  },
+  {
+    "city": "Kolkata",
+    "area": "Shapoorji",
+    "locality_id": "ZWL005174",
+    "latitude": 22.567623,
+    "longitude": 88.497427
+  },
+  {
+    "city": "Kolkata",
+    "area": "Barabazar Market",
+    "locality_id": "ZWL002488",
+    "latitude": 22.57422,
+    "longitude": 88.366682
+  },
+  {
+    "city": "Kolkata",
+    "area": "Salt Lake 1",
+    "locality_id": "ZWL007934",
+    "latitude": 22.573829,
+    "longitude": 88.412814
+  },
+  {
+    "city": "Kolkata",
+    "area": "Tangra",
+    "locality_id": "ZWL001584",
+    "latitude": 22.555059,
+    "longitude": 88.388175
+  },
+  {
+    "city": "Kolkata",
+    "area": "Gariahat",
+    "locality_id": "ZWL005429",
+    "latitude": 22.514492,
+    "longitude": 88.362
+  },
+  {
+    "city": "Kolkata",
+    "area": "Santragachi",
+    "locality_id": "ZWL005121",
+    "latitude": 22.621044,
+    "longitude": 88.283605
+  },
+  {
+    "city": "Kolkata",
+    "area": "Garia",
+    "locality_id": "ZWL007830",
+    "latitude": 22.469249,
+    "longitude": 88.382261
+  },
+  {
+    "city": "Kolkata",
+    "area": "Chinsurah, Kolkata",
+    "locality_id": "ZWL008991",
+    "latitude": 22.933551,
+    "longitude": 88.398649
+  },
+  {
+    "city": "Kolkata",
+    "area": "Kankurgachi",
+    "locality_id": "ZWL009194",
+    "latitude": 22.573467,
+    "longitude": 88.391666
+  },
+  {
+    "city": "Kolkata",
+    "area": "Kasba",
+    "locality_id": "ZWL004722",
+    "latitude": 22.521693,
+    "longitude": 88.389844
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "locality_id": "ZWL007667",
+    "latitude": 19.137106,
+    "longitude": 72.834828
+  },
+  {
+    "city": "Mumbai",
+    "area": "Vile Parle West",
+    "locality_id": "ZWL009338",
+    "latitude": 19.10956,
+    "longitude": 72.832194
+  },
+  {
+    "city": "Mumbai",
+    "area": "Byculla",
+    "locality_id": "ZWL009167",
+    "latitude": 18.974283,
+    "longitude": 72.833712
+  },
+  {
+    "city": "Mumbai",
+    "area": "Vasai",
+    "locality_id": "ZWL006032",
+    "latitude": 19.364358,
+    "longitude": 72.836612
+  },
+  {
+    "city": "Mumbai",
+    "area": "Kalyan, East (Mumbai)",
+    "locality_id": "ZWL007397",
+    "latitude": 19.221503,
+    "longitude": 73.138111
+  },
+  {
+    "city": "Mumbai",
+    "area": "Ulwe, Mumbai",
+    "locality_id": "ZWL009360",
+    "latitude": 18.974217,
+    "longitude": 73.024914
+  },
+  {
+    "city": "Mumbai",
+    "area": "Fort",
+    "locality_id": "ZWL002205",
+    "latitude": 18.940613,
+    "longitude": 72.834235
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri East",
+    "locality_id": "ZWL008975",
+    "latitude": 19.108639,
+    "longitude": 72.874437
+  },
+  {
+    "city": "Mumbai",
+    "area": "Chembur",
+    "locality_id": "ZWL009252",
+    "latitude": 19.04984,
+    "longitude": 72.907847
+  },
+  {
+    "city": "Mumbai",
+    "area": "Palghar, Mumbai",
+    "locality_id": "ZWL002558",
+    "latitude": 19.700631,
+    "longitude": 72.763031
+  },
+  {
+    "city": "Mumbai",
+    "area": "Mumbra, Mumbai",
+    "locality_id": "ZWL002742",
+    "latitude": 19.172636,
+    "longitude": 73.023715
+  },
+  {
+    "city": "Mumbai",
+    "area": "Mulund East",
+    "locality_id": "ZWL004971",
+    "latitude": 19.154253,
+    "longitude": 72.962493
+  },
+  {
+    "city": "Mumbai",
+    "area": "Shirdhon, Mumbai",
+    "locality_id": "ZWL008348",
+    "latitude": 19.195881,
+    "longitude": 73.128886
+  },
+  {
+    "city": "Mumbai",
+    "area": "Virar",
+    "locality_id": "ZWL001344",
+    "latitude": 19.461784,
+    "longitude": 72.799199
+  },
+  {
+    "city": "Mumbai",
+    "area": "Tardeo",
+    "locality_id": "ZWL007606",
+    "latitude": 18.961317,
+    "longitude": 72.805513
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra East",
+    "locality_id": "ZWL005697",
+    "latitude": 19.064138,
+    "longitude": 72.852737
+  },
+  {
+    "city": "Mumbai",
+    "area": "Thane West",
+    "locality_id": "ZWL005442",
+    "latitude": 19.227309,
+    "longitude": 72.972736
+  },
+  {
+    "city": "Mumbai",
+    "area": "Kurla West",
+    "locality_id": "ZWL004189",
+    "latitude": 19.079972,
+    "longitude": 72.881537
+  },
+  {
+    "city": "Mumbai",
+    "area": "Goregaon West",
+    "locality_id": "ZWL005000",
+    "latitude": 19.162722,
+    "longitude": 72.84161
+  },
+  {
+    "city": "Mumbai",
+    "area": "Hiranandani Estate",
+    "locality_id": "ZWL002056",
+    "latitude": 19.267411,
+    "longitude": 72.967074
+  },
+  {
+    "city": "Mumbai",
+    "area": "Dombivli",
+    "locality_id": "ZWL009826",
+    "latitude": 19.210229,
+    "longitude": 73.102272
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bhandup West",
+    "locality_id": "ZWL007889",
+    "latitude": 19.151889,
+    "longitude": 72.934553
+  },
+  {
+    "city": "Mumbai",
+    "area": "Kamothe",
+    "locality_id": "ZWL008977",
+    "latitude": 19.023359,
+    "longitude": 73.091814
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai, Mumbai",
+    "locality_id": "ZWL006622",
+    "latitude": 19.115248,
+    "longitude": 72.908952
+  },
+  {
+    "city": "Mumbai",
+    "area": "Naupada",
+    "locality_id": "ZWL002074",
+    "latitude": 19.188451,
+    "longitude": 72.968001
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bhayandar West",
+    "locality_id": "ZWL008874",
+    "latitude": 19.257869,
+    "longitude": 72.804743
+  },
+  {
+    "city": "Mumbai",
+    "area": "Vileparle East",
+    "locality_id": "ZWL001334",
+    "latitude": 19.09843,
+    "longitude": 72.864947
+  },
+  {
+    "city": "Mumbai",
+    "area": "Sion",
+    "locality_id": "ZWL008378",
+    "latitude": 19.045271,
+    "longitude": 72.864631
+  },
+  {
+    "city": "Mumbai",
+    "area": "Nerul (Navi Mumbai)",
+    "locality_id": "ZWL007690",
+    "latitude": 19.031072,
+    "longitude": 73.026647
+  },
+  {
+    "city": "Mumbai",
+    "area": "Dahisar West",
+    "locality_id": "ZWL007706",
+    "latitude": 19.255014,
+    "longitude": 72.848267
+  },
+  {
+    "city": "Mumbai",
+    "area": "Colaba",
+    "locality_id": "ZWL005320",
+    "latitude": 18.919405,
+    "longitude": 72.824376
+  },
+  {
+    "city": "Mumbai",
+    "area": "Mahim",
+    "locality_id": "ZWL006544",
+    "latitude": 19.039256,
+    "longitude": 72.843913
+  },
+  {
+    "city": "Mumbai",
+    "area": "Wadala",
+    "locality_id": "ZWL002686",
+    "latitude": 19.017538,
+    "longitude": 72.867138
+  },
+  {
+    "city": "Mumbai",
+    "area": "Borivali West",
+    "locality_id": "ZWL001089",
+    "latitude": 19.229714,
+    "longitude": 72.83971
+  },
+  {
+    "city": "Mumbai",
+    "area": "Palava Lakeshore, Mumbai",
+    "locality_id": "ZWL008360",
+    "latitude": 19.165716,
+    "longitude": 73.105733
+  },
+
+  {
+    "city": "Bengaluru",
+    "area": "Banashankari",
+    "locality_id": "ZWL003467",
+    "latitude": 12.936787,
+    "longitude": 77.556079
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Rajarajeshwari Nagar",
+    "locality_id": "ZWL004900",
+    "latitude": 12.918637,
+    "longitude": 77.505467
+  },
+  {
+    "city": "Bengaluru",
+    "area": "JP Nagar",
+    "locality_id": "ZWL005530",
+    "latitude": 12.893441,
+    "longitude": 77.560436
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Mahadevapura",
+    "locality_id": "ZWL007643",
+    "latitude": 12.985322,
+    "longitude": 77.687578
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Jalahalli",
+    "locality_id": "ZWL003159",
+    "latitude": 13.031518,
+    "longitude": 77.530986
+  },
+  {
+    "city": "Bengaluru",
+    "area": "RT Nagar",
+    "locality_id": "ZWL002736",
+    "latitude": 13.021267,
+    "longitude": 77.601234
+  },
+  {
+    "city": "Bengaluru",
+    "area": "KR Puram",
+    "locality_id": "ZWL006369",
+    "latitude": 13.016987,
+    "longitude": 77.706819
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Electronic City",
+    "locality_id": "ZWL006274",
+    "latitude": 12.833101,
+    "longitude": 77.673182
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Vijayanagar",
+    "locality_id": "ZWL005375",
+    "latitude": 12.973219,
+    "longitude": 77.519303
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Marathahalli",
+    "locality_id": "ZWL008600",
+    "latitude": 12.955103,
+    "longitude": 77.696507
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Sarjapur road",
+    "locality_id": "ZWL002292",
+    "latitude": 12.900225,
+    "longitude": 77.697451
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Brookefields",
+    "locality_id": "ZWL004341",
+    "latitude": 12.96742,
+    "longitude": 77.717851
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "locality_id": "ZWL007633",
+    "latitude": 12.975224,
+    "longitude": 77.740422
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Nagavara",
+    "locality_id": "ZWL009212",
+    "latitude": 13.04837,
+    "longitude": 77.625534
+  },
+  {
+    "city": "Bengaluru",
+    "area": "New BEL Road",
+    "locality_id": "ZWL007628",
+    "latitude": 13.040495,
+    "longitude": 77.56942
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "locality_id": "ZWL001156",
+    "latitude": 12.933756,
+    "longitude": 77.625825
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Bannerghatta Road, Bangalore",
+    "locality_id": "ZWL004924",
+    "latitude": 12.891397,
+    "longitude": 77.608176
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Aavalahalli",
+    "locality_id": "ZWL009229",
+    "latitude": 13.034488,
+    "longitude": 77.712241
+  },
+  {
+    "city": "Bengaluru",
+    "area": "BIAL Airport Road",
+    "locality_id": "ZWL005576",
+    "latitude": 13.178996,
+    "longitude": 77.630005
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Yelahanka",
+    "locality_id": "ZWL006658",
+    "latitude": 13.111809,
+    "longitude": 77.589276
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Kadugodi",
+    "locality_id": "ZWL002882",
+    "latitude": 13.007511,
+    "longitude": 77.763209
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Kammanahalli",
+    "locality_id": "ZWL006631",
+    "latitude": 13.01605,
+    "longitude": 77.661735
+  },
+  {
+    "city": "Bengaluru",
+    "area": "HSR Layout",
+    "locality_id": "ZWL001196",
+    "latitude": 12.908482,
+    "longitude": 77.641773
+  },
+  {
+    "city": "Bengaluru",
+    "area": "BTM Layout",
+    "locality_id": "ZWL006600",
+    "latitude": 12.916931,
+    "longitude": 77.608897
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Varthur",
+    "locality_id": "ZWL006854",
+    "latitude": 12.936055,
+    "longitude": 77.723415
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "locality_id": "ZWL001273",
+    "latitude": 12.952636,
+    "longitude": 77.653059
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Jayanagar",
+    "locality_id": "ZWL008105",
+    "latitude": 12.944441,
+    "longitude": 77.581003
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Sahakaranagar",
+    "locality_id": "ZWL005206",
+    "latitude": 13.059918,
+    "longitude": 77.591344
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Devanahalli, Bangalore",
+    "locality_id": "ZWL008797",
+    "latitude": 13.258381,
+    "longitude": 77.716183
+  },
+  {
+    "city": "Bengaluru",
+    "area": "MG Road",
+    "locality_id": "ZWL001962",
+    "latitude": 12.982689,
+    "longitude": 77.608075
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Rajajinagar",
+    "locality_id": "ZWL006844",
+    "latitude": 12.993217,
+    "longitude": 77.557903
+  },
+  {
+    "city": "Bengaluru",
+    "area": "Bellandur",
+    "locality_id": "ZWL004164",
+    "latitude": 12.936225,
+    "longitude": 77.665059
+  },
+  {
+    "city": "Pune",
+    "area": "NIGDI(Pune)",
+    "locality_id": "ZWL007698",
+    "latitude": 18.646511,
+    "longitude": 73.775411
+  },
+  {
+    "city": "Pune",
+    "area": "Bibvewadi (Pune)",
+    "locality_id": "ZWL005773",
+    "latitude": 18.492332,
+    "longitude": 73.861939
+  },
+  {
+    "city": "Pune",
+    "area": "Nanded-Nahre",
+    "locality_id": "ZWL009577",
+    "latitude": 18.453179,
+    "longitude": 73.811077
+  },
+  {
+    "city": "Pune",
+    "area": "Bhosari (Pune)",
+    "locality_id": "ZWL002253",
+    "latitude": 18.643893,
+    "longitude": 73.858653
+  },
+  {
+    "city": "Pune",
+    "area": "Camp Area",
+    "locality_id": "ZWL003498",
+    "latitude": 18.513693,
+    "longitude": 73.877293
+  },
+  {
+    "city": "Pune",
+    "area": "Magarpatta",
+    "locality_id": "ZWL004311",
+    "latitude": 18.519482,
+    "longitude": 73.93436
+  },
+  {
+    "city": "Pune",
+    "area": "Pimpri",
+    "locality_id": "ZWL007801",
+    "latitude": 18.625381,
+    "longitude": 73.791194
+  },
+  {
+    "city": "Pune",
+    "area": "Yerwada",
+    "locality_id": "ZWL008134",
+    "latitude": 18.544659,
+    "longitude": 73.869499
+  },
+  {
+    "city": "Pune",
+    "area": "Kalyani Nagar (Pune)",
+    "locality_id": "ZWL009625",
+    "latitude": 18.546538,
+    "longitude": 73.906594
+  },
+  {
+    "city": "Pune",
+    "area": "Sus, Pune",
+    "locality_id": "ZWL001627",
+    "latitude": 18.564293,
+    "longitude": 73.753879
+  },
+  {
+    "city": "Pune",
+    "area": "Bavdhan",
+    "locality_id": "ZWL006236",
+    "latitude": 18.51473,
+    "longitude": 73.777922
+  },
+  {
+    "city": "Pune",
+    "area": "Viman nagar",
+    "locality_id": "ZWL006743",
+    "latitude": 18.564998,
+    "longitude": 73.911551
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh (Pune)",
+    "locality_id": "ZWL004927",
+    "latitude": 18.559795,
+    "longitude": 73.807123
+  },
+  {
+    "city": "Pune",
+    "area": "Katraj (Pune)",
+    "locality_id": "ZWL008370",
+    "latitude": 18.451394,
+    "longitude": 73.847642
+  },
+  {
+    "city": "Pune",
+    "area": "Pimple Saudagar_Pune",
+    "locality_id": "ZWL004523",
+    "latitude": 18.600897,
+    "longitude": 73.798441
+  },
+  {
+    "city": "Pune",
+    "area": "Dhanori",
+    "locality_id": "ZWL001778",
+    "latitude": 18.588936,
+    "longitude": 73.907711
+  },
+  {
+    "city": "Pune",
+    "area": "Dehu Road",
+    "locality_id": "ZWL003386",
+    "latitude": 18.695874,
+    "longitude": 73.740365
+  },
+  {
+    "city": "Pune",
+    "area": "Koregaon Park (Pune)",
+    "locality_id": "ZWL009157",
+    "latitude": 18.535326,
+    "longitude": 73.883976
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi - Phase 2",
+    "locality_id": "ZWL004962",
+    "latitude": 18.585004,
+    "longitude": 73.706319
+  },
+  {
+    "city": "Pune",
+    "area": "Wakad_Pune",
+    "locality_id": "ZWL005340",
+    "latitude": 18.599555,
+    "longitude": 73.774652
+  },
+  {
+    "city": "Pune",
+    "area": "Manas Lake, Pune",
+    "locality_id": "ZWL009671",
+    "latitude": 18.491382,
+    "longitude": 73.748953
+  },
+  {
+    "city": "Pune",
+    "area": "Sadashiv Peth",
+    "locality_id": "ZWL008921",
+    "latitude": 18.511357,
+    "longitude": 73.856996
+  },
+  {
+    "city": "Pune",
+    "area": "Ghorpadi (Pune)",
+    "locality_id": "ZWL008940",
+    "latitude": 18.519767,
+    "longitude": 73.897269
+  },
+  {
+    "city": "Pune",
+    "area": "Pashan (Pune)",
+    "locality_id": "ZWL009874",
+    "latitude": 18.527587,
+    "longitude": 73.789459
+  },
+  {
+    "city": "Pune",
+    "area": "SP Infocity, Pune",
+    "locality_id": "ZWL006660",
+    "latitude": 18.487813,
+    "longitude": 73.947187
+  },
+  {
+    "city": "Pune",
+    "area": "Manjri,Pune",
+    "locality_id": "ZWL003813",
+    "latitude": 18.509232,
+    "longitude": 73.978364
+  },
+  {
+    "city": "Pune",
+    "area": "Khadki, Pune",
+    "locality_id": "ZWL007471",
+    "latitude": 18.563289,
+    "longitude": 73.835023
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud (Pune)",
+    "locality_id": "ZWL009602",
+    "latitude": 18.504984,
+    "longitude": 73.811587
+  },
+  {
+    "city": "Pune",
+    "area": "Sinhagad Road(Pune)",
+    "locality_id": "ZWL002208",
+    "latitude": 18.477264,
+    "longitude": 73.826437
+  },
+  {
+    "city": "Pune",
+    "area": "New Sangvi, Pune",
+    "locality_id": "ZWL007895",
+    "latitude": 18.578959,
+    "longitude": 73.823437
+  },
+  {
+    "city": "Pune",
+    "area": "Nimgaon, Pune",
+    "locality_id": "ZWL003099",
+    "latitude": 18.794589,
+    "longitude": 73.910016
+  },
+  {
+    "city": "Pune",
+    "area": "Wagholi",
+    "locality_id": "ZWL004575",
+    "latitude": 18.57931,
+    "longitude": 73.972122
+  },
+  {
+    "city": "Pune",
+    "area": "Keshavnagar, Pune",
+    "locality_id": "ZWL004513",
+    "latitude": 18.537273,
+    "longitude": 73.944521
+  },
+  {
+    "city": "Pune",
+    "area": "Baner (Pune)",
+    "locality_id": "ZWL008983",
+    "latitude": 18.567954,
+    "longitude": 73.783475
+  },
+  {
+    "city": "Pune",
+    "area": "Warje (Pune)",
+    "locality_id": "ZWL005520",
+    "latitude": 18.472703,
+    "longitude": 73.7884
+  },
+  {
+    "city": "Pune",
+    "area": "Mundwa, Pune",
+    "locality_id": "ZWL003300",
+    "latitude": 18.53522,
+    "longitude": 73.918549
+  },
+  {
+    "city": "Pune",
+    "area": "Chakan",
+    "locality_id": "ZWL001963",
+    "latitude": 18.752436,
+    "longitude": 73.837484
+  },
+  {
+    "city": "Pune",
+    "area": "Shivaji Nagar (Pune)",
+    "locality_id": "ZWL002422",
+    "latitude": 18.526724,
+    "longitude": 73.841658
+  },
+  {
+    "city": "Pune",
+    "area": "Yewalewadi, Pune",
+    "locality_id": "ZWL005088",
+    "latitude": 18.439804,
+    "longitude": 73.902433
+  },
+  {
+    "city": "Pune",
+    "area": "Bopkhel, Pune",
+    "locality_id": "ZWL003014",
+    "latitude": 18.586306,
+    "longitude": 73.859602
+  },
+  {
+    "city": "Pune",
+    "area": "Kharadi",
+    "locality_id": "ZWL001472",
+    "latitude": 18.55239,
+    "longitude": 73.941901
+  },
+  {
+    "city": "Pune",
+    "area": "Talegaon Dabhade",
+    "locality_id": "ZWL004339",
+    "latitude": 18.738724,
+    "longitude": 73.675701
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi - Phase 1",
+    "locality_id": "ZWL003817",
+    "latitude": 18.596583,
+    "longitude": 73.733312
+  },
+  {
+    "city": "Pune",
+    "area": "Wanowrie-Kondhwa",
+    "locality_id": "ZWL007925",
+    "latitude": 18.477085,
+    "longitude": 73.900966
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Nagole",
+    "locality_id": "ZWL003370",
+    "latitude": 17.359969,
+    "longitude": 78.565724
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Attapur",
+    "locality_id": "ZWL002088",
+    "latitude": 17.380875,
+    "longitude": 78.415717
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Peerzadiguda",
+    "locality_id": "ZWL006702",
+    "latitude": 17.411644,
+    "longitude": 78.57822
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Begumpet",
+    "locality_id": "ZWL008776",
+    "latitude": 17.442659,
+    "longitude": 78.482009
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Suraram",
+    "locality_id": "ZWL003918",
+    "latitude": 17.559752,
+    "longitude": 78.437467
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "locality_id": "ZWL004079",
+    "latitude": 17.419238,
+    "longitude": 78.438474
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Alwal",
+    "locality_id": "ZWL008309",
+    "latitude": 17.508852,
+    "longitude": 78.507402
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Sainikpuri",
+    "locality_id": "ZWL002433",
+    "latitude": 17.489079,
+    "longitude": 78.55891
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Saroor Nagar",
+    "locality_id": "ZWL007390",
+    "latitude": 17.348264,
+    "longitude": 78.530476
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Karkhana",
+    "locality_id": "ZWL004767",
+    "latitude": 17.467142,
+    "longitude": 78.496696
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Kompally",
+    "locality_id": "ZWL006016",
+    "latitude": 17.533309,
+    "longitude": 78.489965
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Himayatnagar",
+    "locality_id": "ZWL003283",
+    "latitude": 17.402602,
+    "longitude": 78.487229
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Medchal Road",
+    "locality_id": "ZWL007311",
+    "latitude": 17.637191,
+    "longitude": 78.480392
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "locality_id": "ZWL005919",
+    "latitude": 17.495894,
+    "longitude": 78.416259
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Amberpet",
+    "locality_id": "ZWL001822",
+    "latitude": 17.407658,
+    "longitude": 78.521703
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jeedimetla",
+    "locality_id": "ZWL008208",
+    "latitude": 17.495621,
+    "longitude": 78.450281
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "locality_id": "ZWL001362",
+    "latitude": 17.452114,
+    "longitude": 78.351486
+  },
+  {
+    "city": "Hyderabad",
+    "area": "LB Nagar",
+    "locality_id": "ZWL002162",
+    "latitude": 17.345727,
+    "longitude": 78.557062
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Dilsukhnagar",
+    "locality_id": "ZWL009712",
+    "latitude": 17.370431,
+    "longitude": 78.536184
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Masab Tank",
+    "locality_id": "ZWL005963",
+    "latitude": 17.398217,
+    "longitude": 78.462258
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Bachupally",
+    "locality_id": "ZWL008297",
+    "latitude": 17.544887,
+    "longitude": 78.359975
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Manikonda",
+    "locality_id": "ZWL005424",
+    "latitude": 17.40593,
+    "longitude": 78.38838
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Shamshabad",
+    "locality_id": "ZWL008585",
+    "latitude": 17.257432,
+    "longitude": 78.38792
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Miyapur",
+    "locality_id": "ZWL008599",
+    "latitude": 17.500034,
+    "longitude": 78.34267
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Hayath Nagar",
+    "locality_id": "ZWL006535",
+    "latitude": 17.32662,
+    "longitude": 78.609288
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Sangareddy",
+    "locality_id": "ZWL006545",
+    "latitude": 17.598038,
+    "longitude": 78.091346
+  },
+  {
+    "city": "Hyderabad",
+    "area": "JNTU",
+    "locality_id": "ZWL009719",
+    "latitude": 17.485166,
+    "longitude": 78.389775
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Serilingampally",
+    "locality_id": "ZWL008890",
+    "latitude": 17.485245,
+    "longitude": 78.313916
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Nizampet",
+    "locality_id": "ZWL007119",
+    "latitude": 17.509398,
+    "longitude": 78.390364
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Q City",
+    "locality_id": "ZWL004747",
+    "latitude": 17.421788,
+    "longitude": 78.318868
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "locality_id": "ZWL004802",
+    "latitude": 17.441185,
+    "longitude": 78.398416
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Narayanguda",
+    "locality_id": "ZWL004665",
+    "latitude": 17.39212,
+    "longitude": 78.494443
+  },
+  {
+    "city": "Hyderabad",
+    "area": "ECIL",
+    "locality_id": "ZWL005999",
+    "latitude": 17.460327,
+    "longitude": 78.567924
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Toli Chowki",
+    "locality_id": "ZWL003360",
+    "latitude": 17.398121,
+    "longitude": 78.421238
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Kondapur",
+    "locality_id": "ZWL007187",
+    "latitude": 17.472485,
+    "longitude": 78.367854
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Charminar",
+    "locality_id": "ZWL007344",
+    "latitude": 17.375037,
+    "longitude": 78.454499
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Sivarampalli",
+    "locality_id": "ZWL008438",
+    "latitude": 17.345995,
+    "longitude": 78.439283
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Tarnaka",
+    "locality_id": "ZWL005494",
+    "latitude": 17.431829,
+    "longitude": 78.55094
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Nampally",
+    "locality_id": "ZWL004189",
+    "latitude": 17.384963,
+    "longitude": 78.471318
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Uppal",
+    "locality_id": "ZWL007019",
+    "latitude": 17.396134,
+    "longitude": 78.56269
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Kachiguda",
+    "locality_id": "ZWL003319",
+    "latitude": 17.380348,
+    "longitude": 78.494469
+  },
+  {
+    "city": "Hyderabad",
+    "area": "LB Stadium",
+    "locality_id": "ZWL003399",
+    "latitude": 17.39423,
+    "longitude": 78.472904
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Moosarambagh",
+    "locality_id": "ZWL005865",
+    "latitude": 17.369099,
+    "longitude": 78.511209
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Chandanagar",
+    "locality_id": "ZWL004522",
+    "latitude": 17.493213,
+    "longitude": 78.316387
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Panjagutta",
+    "locality_id": "ZWL003503",
+    "latitude": 17.427918,
+    "longitude": 78.448667
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Mehdipatnam",
+    "locality_id": "ZWL006234",
+    "latitude": 17.385044,
+    "longitude": 78.437723
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Malkajgiri",
+    "locality_id": "ZWL006251",
+    "latitude": 17.451537,
+    "longitude": 78.544772
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Hitec City",
+    "locality_id": "ZWL007093",
+    "latitude": 17.44745,
+    "longitude": 78.376612
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Sanath Nagar",
+    "locality_id": "ZWL003452",
+    "latitude": 17.457358,
+    "longitude": 78.445259
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Trimulgherry",
+    "locality_id": "ZWL008154",
+    "latitude": 17.494177,
+    "longitude": 78.51432
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Mallapur",
+    "locality_id": "ZWL005819",
+    "latitude": 17.438461,
+    "longitude": 78.593712
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Moosapet",
+    "locality_id": "ZWL007883",
+    "latitude": 17.469297,
+    "longitude": 78.422668
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Yousufguda",
+    "locality_id": "ZWL009723",
+    "latitude": 17.438866,
+    "longitude": 78.42485
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Bandlaguda Jagir",
+    "locality_id": "ZWL007201",
+    "latitude": 17.340412,
+    "longitude": 78.399644
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Suchitra Circle",
+    "locality_id": "ZWL009706",
+    "latitude": 17.51517,
+    "longitude": 78.462826
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Vanasthalipuram",
+    "locality_id": "ZWL007732",
+    "latitude": 17.318125,
+    "longitude": 78.577315
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Chaderghat",
+    "locality_id": "ZWL002852",
+    "latitude": 17.376231,
+    "longitude": 78.496146
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Kothapet",
+    "locality_id": "ZWL009705",
+    "latitude": 17.353708,
+    "longitude": 78.541581
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "locality_id": "ZWL008031",
+    "latitude": 17.432539,
+    "longitude": 78.403766
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Patancheru",
+    "locality_id": "ZWL008209",
+    "latitude": 17.525686,
+    "longitude": 78.268439
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Ameerpet",
+    "locality_id": "ZWL005892",
+    "latitude": 17.438127,
+    "longitude": 78.4465
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Moti Nagar",
+    "locality_id": "ZWL009741",
+    "latitude": 17.45685,
+    "longitude": 78.42129
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Khajaguda",
+    "locality_id": "ZWL006493",
+    "latitude": 17.41758,
+    "longitude": 78.373867
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Santoshnagar",
+    "locality_id": "ZWL006017",
+    "latitude": 17.34351,
+    "longitude": 78.499003
+  },
+  {
+    "city": "Chennai",
+    "area": "Pallavaram",
+    "locality_id": "ZWL004297",
+    "latitude": 12.973055,
+    "longitude": 80.151271
+  },
+  {
+    "city": "Chennai",
+    "area": "Nungambakkam",
+    "locality_id": "ZWL005190",
+    "latitude": 13.060471,
+    "longitude": 80.255887
+  },
+  {
+    "city": "Chennai",
+    "area": "Anna Nagar, Chennai",
+    "locality_id": "ZWL003967",
+    "latitude": 13.086884,
+    "longitude": 80.206602
+  },
+  {
+    "city": "Chennai",
+    "area": "Perambur",
+    "locality_id": "ZWL008996",
+    "latitude": 13.121741,
+    "longitude": 80.225058
+  },
+  {
+    "city": "Chennai",
+    "area": "Mogappair, Chennai",
+    "locality_id": "ZWL005857",
+    "latitude": 13.080365,
+    "longitude": 80.175724
+  },
+  {
+    "city": "Chennai",
+    "area": "Royapuram",
+    "locality_id": "ZWL006232",
+    "latitude": 13.136635,
+    "longitude": 80.289535
+  },
+  {
+    "city": "Chennai",
+    "area": "Mugalivakkam",
+    "locality_id": "ZWL008548",
+    "latitude": 13.014886,
+    "longitude": 80.152455
+  },
+  {
+    "city": "Chennai",
+    "area": "Porur",
+    "locality_id": "ZWL006053",
+    "latitude": 13.048069,
+    "longitude": 80.158163
+  },
+  {
+    "city": "Chennai",
+    "area": "Redhills",
+    "locality_id": "ZWL001398",
+    "latitude": 13.191443,
+    "longitude": 80.181225
+  },
+  {
+    "city": "Chennai",
+    "area": "Tambaram",
+    "locality_id": "ZWL001701",
+    "latitude": 12.934834,
+    "longitude": 80.101824
+  },
+  {
+    "city": "Chennai",
+    "area": "Avadi",
+    "locality_id": "ZWL008876",
+    "latitude": 13.125301,
+    "longitude": 80.069776
+  },
+  {
+    "city": "Chennai",
+    "area": "Kilpauk",
+    "locality_id": "ZWL003387",
+    "latitude": 13.080772,
+    "longitude": 80.248018
+  },
+  {
+    "city": "Chennai",
+    "area": "Ashok Nagar (CHENNAI)",
+    "locality_id": "ZWL007059",
+    "latitude": 13.02268,
+    "longitude": 80.200286
+  },
+  {
+    "city": "Chennai",
+    "area": "Adyar",
+    "locality_id": "ZWL006520",
+    "latitude": 12.993947,
+    "longitude": 80.247174
+  },
+  {
+    "city": "Chennai",
+    "area": "Alwarpet",
+    "locality_id": "ZWL001210",
+    "latitude": 13.032366,
+    "longitude": 80.257625
+  },
+  {
+    "city": "Chennai",
+    "area": "Selaiyur",
+    "locality_id": "ZWL007171",
+    "latitude": 12.91657,
+    "longitude": 80.134348
+  },
+  {
+    "city": "Chennai",
+    "area": "Thandalam, Chennai",
+    "locality_id": "ZWL006329",
+    "latitude": 12.863785,
+    "longitude": 79.947886
+  },
+  {
+    "city": "Chennai",
+    "area": "Sholinganallur",
+    "locality_id": "ZWL004233",
+    "latitude": 12.921608,
+    "longitude": 80.233727
+  },
+  {
+    "city": "Chennai",
+    "area": "Ambattur",
+    "locality_id": "ZWL007209",
+    "latitude": 13.117566,
+    "longitude": 80.146667
+  },
+  {
+    "city": "Chennai",
+    "area": "Medavakkam",
+    "locality_id": "ZWL003452",
+    "latitude": 12.931197,
+    "longitude": 80.182327
+  },
+  {
+    "city": "Chennai",
+    "area": "Poonamallee",
+    "locality_id": "ZWL007176",
+    "latitude": 13.052763,
+    "longitude": 80.090763
+  },
+  {
+    "city": "Chennai",
+    "area": "Minjur, Chennai",
+    "locality_id": "ZWL009897",
+    "latitude": 13.282298,
+    "longitude": 80.266616
+  },
+  {
+    "city": "Chennai",
+    "area": "Urapakkam",
+    "locality_id": "ZWL004882",
+    "latitude": 12.878957,
+    "longitude": 80.070307
+  },
+  {
+    "city": "Chennai",
+    "area": "Velachery",
+    "locality_id": "ZWL006156",
+    "latitude": 12.9893,
+    "longitude": 80.199988
+  },
+  {
+    "city": "Chennai",
+    "area": "Navallur",
+    "locality_id": "ZWL001141",
+    "latitude": 12.841923,
+    "longitude": 80.209025
+  },
+  {
+    "city": "Chennai",
+    "area": "Vadapalani",
+    "locality_id": "ZWL004431",
+    "latitude": 13.06516,
+    "longitude": 80.207917
+  },
+  {
+    "city": "Chennai",
+    "area": "T Nagar",
+    "locality_id": "ZWL001516",
+    "latitude": 13.026256,
+    "longitude": 80.22812
+  },
+  {
+    "city": "Lucknow",
+    "area": "Hazratganj",
+    "locality_id": "ZWL003425",
+    "latitude": 26.844819,
+    "longitude": 80.940833
+  },
+  {
+    "city": "Lucknow",
+    "area": "Aminabad",
+    "locality_id": "ZWL006490",
+    "latitude": 26.85677,
+    "longitude": 80.925103
+  },
+  {
+    "city": "Lucknow",
+    "area": "Chowk",
+    "locality_id": "ZWL009091",
+    "latitude": 26.873686,
+    "longitude": 80.894502
+  },
+  {
+    "city": "Lucknow",
+    "area": "Telibagh, Lucknow",
+    "locality_id": "ZWL003030",
+    "latitude": 26.776664,
+    "longitude": 80.936755
+  },
+  {
+    "city": "Lucknow",
+    "area": "Husainganj",
+    "locality_id": "ZWL004978",
+    "latitude": 26.83697,
+    "longitude": 80.92611
+  },
+  {
+    "city": "Lucknow",
+    "area": "Jankipuram",
+    "locality_id": "ZWL009177",
+    "latitude": 26.926427,
+    "longitude": 80.936884
+  },
+  {
+    "city": "Lucknow",
+    "area": "Arjunganj",
+    "locality_id": "ZWL004436",
+    "latitude": 26.794554,
+    "longitude": 80.999112
+  },
+  {
+    "city": "Lucknow",
+    "area": "Chinhat, Lucknow",
+    "locality_id": "ZWL005470",
+    "latitude": 26.878323,
+    "longitude": 81.038299
+  },
+  {
+    "city": "Lucknow",
+    "area": "Mahanagar",
+    "locality_id": "ZWL001500",
+    "latitude": 26.886387,
+    "longitude": 80.960641
+  },
+  {
+    "city": "Lucknow",
+    "area": "Ashiyana",
+    "locality_id": "ZWL003371",
+    "latitude": 26.79051,
+    "longitude": 80.913855
+  },
+  {
+    "city": "Lucknow",
+    "area": "Indira Nagar, Lucknow",
+    "locality_id": "ZWL003635",
+    "latitude": 26.883684,
+    "longitude": 80.99029
+  },
+  {
+    "city": "Lucknow",
+    "area": "Vasant Kunj, Lucknow",
+    "locality_id": "ZWL003320",
+    "latitude": 26.877121,
+    "longitude": 80.878447
+  },
+  {
+    "city": "Lucknow",
+    "area": "Rajajipuram",
+    "locality_id": "ZWL009682",
+    "latitude": 26.842055,
+    "longitude": 80.873868
+  },
+  {
+    "city": "Lucknow",
+    "area": "Gomti Nagar",
+    "locality_id": "ZWL002273",
+    "latitude": 26.850582,
+    "longitude": 80.999875
+  },
+  {
+    "city": "Lucknow",
+    "area": "Alambagh",
+    "locality_id": "ZWL002331",
+    "latitude": 26.810769,
+    "longitude": 80.904864
+  },
+  {
+    "city": "Lucknow",
+    "area": "Aliganj, Lucknow",
+    "locality_id": "ZWL007731",
+    "latitude": 26.890082,
+    "longitude": 80.942007
+  },
+  {
+    "city": "Lucknow",
+    "area": "Kalyanpur",
+    "locality_id": "ZWL007011",
+    "latitude": 26.907206,
+    "longitude": 80.974143
+  },
+  {
+    "city": "Kochi",
+    "area": "Eroor",
+    "locality_id": "ZWL003768",
+    "latitude": 9.929826,
+    "longitude": 76.332369
+  },
+  {
+    "city": "Kochi",
+    "area": "Kakkanad",
+    "locality_id": "ZWL005555",
+    "latitude": 10.014153,
+    "longitude": 76.358626
+  },
+  {
+    "city": "Kochi",
+    "area": "Nedumbassery",
+    "locality_id": "ZWL002986",
+    "latitude": 10.178008,
+    "longitude": 76.386636
+  },
+  {
+    "city": "Kochi",
+    "area": "North Paravur",
+    "locality_id": "ZWL004273",
+    "latitude": 10.162441,
+    "longitude": 76.216317
+  },
+  {
+    "city": "Kochi",
+    "area": "Aluva",
+    "locality_id": "ZWL005425",
+    "latitude": 10.106615,
+    "longitude": 76.348843
+  },
+  {
+    "city": "Kochi",
+    "area": "Ambalamugal",
+    "locality_id": "ZWL004691",
+    "latitude": 9.980241,
+    "longitude": 76.397987
+  },
+  {
+    "city": "Kochi",
+    "area": "Kalamassery",
+    "locality_id": "ZWL001981",
+    "latitude": 10.046034,
+    "longitude": 76.308117
+  },
+  {
+    "city": "Kochi",
+    "area": "Kaloor",
+    "locality_id": "ZWL003786",
+    "latitude": 10.000143,
+    "longitude": 76.298744
+  },
+  {
+    "city": "Kochi",
+    "area": "Perumbavoor",
+    "locality_id": "ZWL009487",
+    "latitude": 10.117563,
+    "longitude": 76.46032
+  },
+  {
+    "city": "Kochi",
+    "area": "Thiruvankulam",
+    "locality_id": "ZWL007216",
+    "latitude": 9.932264,
+    "longitude": 76.38574
+  },
+  {
+    "city": "Kochi",
+    "area": "Vypin",
+    "locality_id": "ZWL002327",
+    "latitude": 10.019731,
+    "longitude": 76.245595
+  },
+
+  {
+    "city": "Jaipur",
+    "area": "Mansarovar-2",
+    "locality_id": "ZWL005082",
+    "latitude": 26.844258,
+    "longitude": 75.76857
+  },
+  {
+    "city": "Jaipur",
+    "area": "Tonk road",
+    "locality_id": "ZWL003863",
+    "latitude": 26.853567,
+    "longitude": 75.794945
+  },
+  {
+    "city": "Jaipur",
+    "area": "Jagatpura",
+    "locality_id": "ZWL009286",
+    "latitude": 26.825942,
+    "longitude": 75.851086
+  },
+  {
+    "city": "Jaipur",
+    "area": "Shyam Nagar",
+    "locality_id": "ZWL009458",
+    "latitude": 26.887617,
+    "longitude": 75.756174
+  },
+  {
+    "city": "Jaipur",
+    "area": "C Scheme",
+    "locality_id": "ZWL003704",
+    "latitude": 26.916823,
+    "longitude": 75.80119
+  },
+  {
+    "city": "Jaipur",
+    "area": "Lal Kothi",
+    "locality_id": "ZWL003606",
+    "latitude": 26.893689,
+    "longitude": 75.7978
+  },
+  {
+    "city": "Jaipur",
+    "area": "Pink City",
+    "locality_id": "ZWL009569",
+    "latitude": 26.929588,
+    "longitude": 75.823855
+  },
+  {
+    "city": "Jaipur",
+    "area": "Vaishali Nagar",
+    "locality_id": "ZWL001750",
+    "latitude": 26.909885,
+    "longitude": 75.739394
+  },
+  {
+    "city": "Jaipur",
+    "area": "Malviya Nagar",
+    "locality_id": "ZWL002751",
+    "latitude": 26.854191,
+    "longitude": 75.810798
+  },
+  {
+    "city": "Jaipur",
+    "area": "Sodala",
+    "locality_id": "ZWL005080",
+    "latitude": 26.904751,
+    "longitude": 75.777608
+  },
+  {
+    "city": "Jaipur",
+    "area": "Vidhyadhar Nagar",
+    "locality_id": "ZWL008680",
+    "latitude": 26.963051,
+    "longitude": 75.770166
+  },
+  {
+    "city": "Jaipur",
+    "area": "Raja Park",
+    "locality_id": "ZWL008249",
+    "latitude": 26.902497,
+    "longitude": 75.826544
+  },
+  {
+    "city": "Jaipur",
+    "area": "Shastri Nagar",
+    "locality_id": "ZWL008915",
+    "latitude": 26.936514,
+    "longitude": 75.797054
+  },
+  {
+    "city": "Jaipur",
+    "area": "Pratap Nagar",
+    "locality_id": "ZWL006372",
+    "latitude": 26.798396,
+    "longitude": 75.815353
+  },
+
+  {
+    "city": "Ahmedabad",
+    "area": "Paldi",
+    "locality_id": "ZWL003133",
+    "latitude": 22.994998,
+    "longitude": 72.557474
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Shahibag",
+    "locality_id": "ZWL002302",
+    "latitude": 23.058607,
+    "longitude": 72.592212
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Navrangpura",
+    "locality_id": "ZWL003747",
+    "latitude": 23.038426,
+    "longitude": 72.558241
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Chandkheda",
+    "locality_id": "ZWL002503",
+    "latitude": 23.117204,
+    "longitude": 72.607123
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Science-City Sola",
+    "locality_id": "ZWL005979",
+    "latitude": 23.087361,
+    "longitude": 72.510289
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Sector 16, Gandhinagar",
+    "locality_id": "ZWL005987",
+    "latitude": 23.216612,
+    "longitude": 72.652543
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Vastrapur",
+    "locality_id": "ZWL001959",
+    "latitude": 23.042513,
+    "longitude": 72.524312
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Prahlad Nagar",
+    "locality_id": "ZWL007404",
+    "latitude": 22.998074,
+    "longitude": 72.515955
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Nikol",
+    "locality_id": "ZWL001898",
+    "latitude": 23.077071,
+    "longitude": 72.637566
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Infocity, Gandhinagar",
+    "locality_id": "ZWL002250",
+    "latitude": 23.177762,
+    "longitude": 72.636221
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Naranpura",
+    "locality_id": "ZWL004415",
+    "latitude": 23.072018,
+    "longitude": 72.573161
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Bopal",
+    "locality_id": "ZWL006288",
+    "latitude": 23.011294,
+    "longitude": 72.464041
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "locality_id": "ZWL009182",
+    "latitude": 22.985307,
+    "longitude": 72.610322
+  },
+  {
+    "city": "Ahmedabad",
+    "area": "Bodakdev",
+    "locality_id": "ZWL009990",
+    "latitude": 23.055398,
+    "longitude": 72.491724
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 15",
+    "locality_id": "ZWL007561",
+    "latitude": 30.764466,
+    "longitude": 76.774815
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 8",
+    "locality_id": "ZWL006687",
+    "latitude": 30.749265,
+    "longitude": 76.801584
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Manimajra",
+    "locality_id": "ZWL001934",
+    "latitude": 30.722848,
+    "longitude": 76.835395
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Industrial Area Phase I",
+    "locality_id": "ZWL003936",
+    "latitude": 30.701381,
+    "longitude": 76.808231
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 59",
+    "locality_id": "ZWL004716",
+    "latitude": 30.725954,
+    "longitude": 76.716657
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 20, Panchkula",
+    "locality_id": "ZWL002303",
+    "latitude": 30.667002,
+    "longitude": 76.86017
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 8/9 and Panchkula",
+    "locality_id": "ZWL009521",
+    "latitude": 30.694507,
+    "longitude": 76.849604
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 28",
+    "locality_id": "ZWL006817",
+    "latitude": 30.724245,
+    "longitude": 76.808833
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Phase 10 Mohali",
+    "locality_id": "ZWL003496",
+    "latitude": 30.692094,
+    "longitude": 76.733846
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Gillco",
+    "locality_id": "ZWL009894",
+    "latitude": 30.736526,
+    "longitude": 76.654293
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 46",
+    "locality_id": "ZWL004101",
+    "latitude": 30.70592,
+    "longitude": 76.76231
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 70",
+    "locality_id": "ZWL003262",
+    "latitude": 30.70987,
+    "longitude": 76.69205
+  },
+  {
+    "city": "Chandigarh",
+    "area": "VIP Road, Zirakpur",
+    "locality_id": "ZWL009430",
+    "latitude": 30.656048,
+    "longitude": 76.823298
+  },
+  {
+    "city": "Chandigarh",
+    "area": "VR Mall",
+    "locality_id": "ZWL004196",
+    "latitude": 30.730066,
+    "longitude": 76.684242
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 35",
+    "locality_id": "ZWL003093",
+    "latitude": 30.72729,
+    "longitude": 76.756632
+  },
+  {
+    "city": "Chandigarh",
+    "area": "Sector 22",
+    "locality_id": "ZWL009406",
+    "latitude": 30.735307,
+    "longitude": 76.774912
+  },
+  {
+    "city": "Goa",
+    "area": "Verna",
+    "locality_id": "ZWL002150",
+    "latitude": 15.38064,
+    "longitude": 73.909304
+  },
+  {
+    "city": "Goa",
+    "area": "Mapusa",
+    "locality_id": "ZWL008519",
+    "latitude": 15.599556,
+    "longitude": 73.791137
+  },
+  {
+    "city": "Goa",
+    "area": "Calangute",
+    "locality_id": "ZWL004452",
+    "latitude": 15.532704,
+    "longitude": 73.762608
+  },
+  {
+    "city": "Goa",
+    "area": "Majorda",
+    "locality_id": "ZWL006556",
+    "latitude": 15.255895,
+    "longitude": 73.937616
+  },
+  {
+    "city": "Goa",
+    "area": "Upper panaji",
+    "locality_id": "ZWL002137",
+    "latitude": 15.460913,
+    "longitude": 73.835391
+  },
+  {
+    "city": "Goa",
+    "area": "Ponda",
+    "locality_id": "ZWL005093",
+    "latitude": 15.398953,
+    "longitude": 74.002377
+  },
+  {
+    "city": "Goa",
+    "area": "Margao",
+    "locality_id": "ZWL002142",
+    "latitude": 15.231363,
+    "longitude": 73.997689
+  },
+  {
+    "city": "Goa",
+    "area": "Vasco",
+    "locality_id": "ZWL004621",
+    "latitude": 15.387592,
+    "longitude": 73.829979
+  },
+  {
+    "city": "Goa",
+    "area": "Morjim",
+    "locality_id": "ZWL006403",
+    "latitude": 15.653757,
+    "longitude": 73.747022
+  },
+  {
+    "city": "Goa",
+    "area": "Porvorim",
+    "locality_id": "ZWL005568",
+    "latitude": 15.535007,
+    "longitude": 73.827229
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Sector 32",
+    "locality_id": "ZWL009021",
+    "latitude": 30.895881,
+    "longitude": 75.90605
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Civil Lines",
+    "locality_id": "ZWL006208",
+    "latitude": 30.916548,
+    "longitude": 75.818266
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Sarabha Nagar",
+    "locality_id": "ZWL006788",
+    "latitude": 30.891869,
+    "longitude": 75.834901
+  },
+  {
+    "city": "Ludhiana",
+    "area": "BRS Nagar",
+    "locality_id": "ZWL005256",
+    "latitude": 30.897774,
+    "longitude": 75.787544
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Model Town",
+    "locality_id": "ZWL001163",
+    "latitude": 30.88106,
+    "longitude": 75.875309
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Ganesh Nagar",
+    "locality_id": "ZWL003304",
+    "latitude": 30.91754,
+    "longitude": 75.879759
+  },
+  {
+    "city": "Ludhiana",
+    "area": "Dugri",
+    "locality_id": "ZWL003119",
+    "latitude": 30.856247,
+    "longitude": 75.843129
+  },
+  {
+    "city": "Guwahati",
+    "area": "Pathar Quarry",
+    "locality_id": "ZWL006981",
+    "latitude": 26.159879,
+    "longitude": 91.827651
+  },
+  {
+    "city": "Guwahati",
+    "area": "Basistha-Lokhra",
+    "locality_id": "ZWL006537",
+    "latitude": 26.116888,
+    "longitude": 91.777488
+  },
+  {
+    "city": "Guwahati",
+    "area": "North Guwahati",
+    "locality_id": "ZWL009407",
+    "latitude": 26.196471,
+    "longitude": 91.684788
+  },
+  {
+    "city": "Guwahati",
+    "area": "Dharapur",
+    "locality_id": "ZWL004763",
+    "latitude": 26.134004,
+    "longitude": 91.623895
+  },
+  {
+    "city": "Guwahati",
+    "area": "Lal Ganesh - Kahilipara",
+    "locality_id": "ZWL007095",
+    "latitude": 26.145102,
+    "longitude": 91.752656
+  },
+  {
+    "city": "Guwahati",
+    "area": "Paltan-Bazar",
+    "locality_id": "ZWL002105",
+    "latitude": 26.183358,
+    "longitude": 91.75248
+  },
+  {
+    "city": "Guwahati",
+    "area": "Azara",
+    "locality_id": "ZWL003362",
+    "latitude": 26.110966,
+    "longitude": 91.602115
+  },
+  {
+    "city": "Guwahati",
+    "area": "Changsari",
+    "locality_id": "ZWL002491",
+    "latitude": 26.262376,
+    "longitude": 91.694879
+  },
+  {
+    "city": "Guwahati",
+    "area": "Maligaon - Jalukbari",
+    "locality_id": "ZWL005319",
+    "latitude": 26.161285,
+    "longitude": 91.689576
+  },
+  {
+    "city": "Guwahati",
+    "area": "Zoo Tiniali - Christian basti",
+    "locality_id": "ZWL005708",
+    "latitude": 26.177033,
+    "longitude": 91.779799
+  },
+
+  {
+    "city": "Amritsar",
+    "area": "Himatpura",
+    "locality_id": "ZWL001780",
+    "latitude": 31.608999,
+    "longitude": 74.863051
+  },
+  {
+    "city": "Amritsar",
+    "area": "Rasulpur",
+    "locality_id": "ZWL008281",
+    "latitude": 31.61959,
+    "longitude": 74.915049
+  },
+  {
+    "city": "Amritsar",
+    "area": "Ranjit Avenue",
+    "locality_id": "ZWL004590",
+    "latitude": 31.666773,
+    "longitude": 74.8502
+  },
+  {
+    "city": "Amritsar",
+    "area": "White Avenue",
+    "locality_id": "ZWL002073",
+    "latitude": 31.657377,
+    "longitude": 74.889594
+  },
+  {
+    "city": "Amritsar",
+    "area": "Chheharta",
+    "locality_id": "ZWL005826",
+    "latitude": 31.633049,
+    "longitude": 74.817702
+  },
+  {
+    "city": "Amritsar",
+    "area": "Hall Bazar",
+    "locality_id": "ZWL007456",
+    "latitude": 31.632158,
+    "longitude": 74.866838
+  },
+
+  {
+    "city": "Bhopal",
+    "area": "Ashoka Garden",
+    "locality_id": "ZWL008755",
+    "latitude": 23.260793,
+    "longitude": 77.421525
+  },
+  {
+    "city": "Bhopal",
+    "area": "Shahpura",
+    "locality_id": "ZWL009428",
+    "latitude": 23.176545,
+    "longitude": 77.418255
+  },
+  {
+    "city": "Bhopal",
+    "area": "Airport Area",
+    "locality_id": "ZWL006900",
+    "latitude": 23.290449,
+    "longitude": 77.337426
+  },
+  {
+    "city": "Bhopal",
+    "area": "TT Nagar",
+    "locality_id": "ZWL002615",
+    "latitude": 23.2236,
+    "longitude": 77.392134
+  },
+  {
+    "city": "Bhopal",
+    "area": "BHEL",
+    "locality_id": "ZWL003463",
+    "latitude": 23.267602,
+    "longitude": 77.474332
+  },
+  {
+    "city": "Bhopal",
+    "area": "MP Nagar",
+    "locality_id": "ZWL002872",
+    "latitude": 23.227641,
+    "longitude": 77.44733
+  },
+  {
+    "city": "Bhopal",
+    "area": "Hoshangabad Road",
+    "locality_id": "ZWL005836",
+    "latitude": 23.168118,
+    "longitude": 77.482657
+  },
+  {
+    "city": "Bhopal",
+    "area": "People's Mall",
+    "locality_id": "ZWL003417",
+    "latitude": 23.293081,
+    "longitude": 77.396385
+  },
+  {
+    "city": "Visakhapatnam",
+    "area": "NAD",
+    "locality_id": "ZWL001466",
+    "latitude": 17.749616,
+    "longitude": 83.230677
+  },
+  {
+    "city": "Visakhapatnam",
+    "area": "Gajuwaka",
+    "locality_id": "ZWL003024",
+    "latitude": 17.681004,
+    "longitude": 83.207459
+  },
+  {
+    "city": "Visakhapatnam",
+    "area": "Dwaraka Nagar",
+    "locality_id": "ZWL004755",
+    "latitude": 17.739116,
+    "longitude": 83.324672
+  },
+  {
+    "city": "Visakhapatnam",
+    "area": "Madhurawada",
+    "locality_id": "ZWL009959",
+    "latitude": 17.789823,
+    "longitude": 83.373031
+  },
+
+  {
+    "city": "Bhubaneswar",
+    "area": "Madhusudan Nagar",
+    "locality_id": "ZWL007491",
+    "latitude": 20.278497,
+    "longitude": 85.824922
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Kalinga Nagar",
+    "locality_id": "ZWL003084",
+    "latitude": 20.277934,
+    "longitude": 85.773884
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Nayapalli",
+    "locality_id": "ZWL003270",
+    "latitude": 20.299879,
+    "longitude": 85.813518
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Sahid Nagar",
+    "locality_id": "ZWL007379",
+    "latitude": 20.289125,
+    "longitude": 85.85668
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Lakshmi Sagar",
+    "locality_id": "ZWL001823",
+    "latitude": 20.266492,
+    "longitude": 85.851166
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Khandagiri",
+    "locality_id": "ZWL004098",
+    "latitude": 20.246979,
+    "longitude": 85.766384
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Jagmohan Nagar",
+    "locality_id": "ZWL008906",
+    "latitude": 20.257002,
+    "longitude": 85.789371
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Kharabela Nagar",
+    "locality_id": "ZWL002821",
+    "latitude": 20.271584,
+    "longitude": 85.84094
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Chandrasekharpur",
+    "locality_id": "ZWL009572",
+    "latitude": 20.317124,
+    "longitude": 85.806992
+  },
+  {
+    "city": "Bhubaneswar",
+    "area": "Patia",
+    "locality_id": "ZWL005652",
+    "latitude": 20.363954,
+    "longitude": 85.814321
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Gandhipuram",
+    "locality_id": "ZWL003661",
+    "latitude": 11.019095,
+    "longitude": 76.968472
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Vadavalli",
+    "locality_id": "ZWL005742",
+    "latitude": 11.02482,
+    "longitude": 76.900648
+  },
+  {
+    "city": "Coimbatore",
+    "area": "RS Puram",
+    "locality_id": "ZWL008653",
+    "latitude": 11.000355,
+    "longitude": 76.941985
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Racecourse",
+    "locality_id": "ZWL002703",
+    "latitude": 10.999272,
+    "longitude": 76.975662
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Saibaba Colony",
+    "locality_id": "ZWL009668",
+    "latitude": 11.032946,
+    "longitude": 76.944253
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Peelamedu",
+    "locality_id": "ZWL007527",
+    "latitude": 11.026179,
+    "longitude": 77.005899
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Podanur",
+    "locality_id": "ZWL005468",
+    "latitude": 10.977206,
+    "longitude": 76.981702
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Kunniamuthur",
+    "locality_id": "ZWL004408",
+    "latitude": 10.937589,
+    "longitude": 76.933705
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Ondipudur",
+    "locality_id": "ZWL008265",
+    "latitude": 10.99767,
+    "longitude": 77.042986
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Koundampalayam",
+    "locality_id": "ZWL007600",
+    "latitude": 11.068353,
+    "longitude": 76.937962
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Saravanampatty",
+    "locality_id": "ZWL002147",
+    "latitude": 11.070812,
+    "longitude": 76.998053
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Ganapathypudur",
+    "locality_id": "ZWL009595",
+    "latitude": 11.042698,
+    "longitude": 76.984477
+  },
+  {
+    "city": "Coimbatore",
+    "area": "Sitra and Singanallur",
+    "locality_id": "ZWL001279",
+    "latitude": 11.042569,
+    "longitude": 77.054996
+  },
+
+  {
+    "city": "Mangalore",
+    "area": "South Mangalore",
+    "locality_id": "ZWL006449",
+    "latitude": 12.87903,
+    "longitude": 74.854593
+  },
+  {
+    "city": "Mangalore",
+    "area": "Thokkattu",
+    "locality_id": "ZWL009478",
+    "latitude": 12.82046,
+    "longitude": 74.865765
+  },
+  {
+    "city": "Vadodara",
+    "area": "Waghodia",
+    "locality_id": "ZWL002354",
+    "latitude": 22.300216,
+    "longitude": 73.229259
+  },
+  {
+    "city": "Vadodara",
+    "area": "Fatehgunj",
+    "locality_id": "ZWL004097",
+    "latitude": 22.315398,
+    "longitude": 73.199769
+  },
+  {
+    "city": "Vadodara",
+    "area": "Nizampura",
+    "locality_id": "ZWL009713",
+    "latitude": 22.334731,
+    "longitude": 73.176306
+  },
+  {
+    "city": "Vadodara",
+    "area": "Diwalipura",
+    "locality_id": "ZWL008938",
+    "latitude": 22.302691,
+    "longitude": 73.15612
+  },
+  {
+    "city": "Vadodara",
+    "area": "Akota",
+    "locality_id": "ZWL004439",
+    "latitude": 22.298674,
+    "longitude": 73.178672
+  },
+  {
+    "city": "Vadodara",
+    "area": "Manjalpur",
+    "locality_id": "ZWL002446",
+    "latitude": 22.25707,
+    "longitude": 73.19115
+  },
+  {
+    "city": "Vadodara",
+    "area": "Shubhanpura",
+    "locality_id": "ZWL008232",
+    "latitude": 22.321614,
+    "longitude": 73.160014
+  },
+  {
+    "city": "Vadodara",
+    "area": "Alkapuri",
+    "locality_id": "ZWL002475",
+    "latitude": 22.31314,
+    "longitude": 73.17276
+  },
+  {
+    "city": "Nagpur",
+    "area": "Pratap Nagar",
+    "locality_id": "ZWL005549",
+    "latitude": 21.114916,
+    "longitude": 79.051774
+  },
+  {
+    "city": "Nagpur",
+    "area": "Sadar",
+    "locality_id": "ZWL001438",
+    "latitude": 21.171681,
+    "longitude": 79.072065
+  },
+  {
+    "city": "Nagpur",
+    "area": "Kharabi",
+    "locality_id": "ZWL006432",
+    "latitude": 21.144692,
+    "longitude": 79.136306
+  },
+  {
+    "city": "Nagpur",
+    "area": "Hanuman Nagar",
+    "locality_id": "ZWL009782",
+    "latitude": 21.131152,
+    "longitude": 79.100974
+  },
+  {
+    "city": "Nagpur",
+    "area": "Dharampeth",
+    "locality_id": "ZWL008282",
+    "latitude": 21.131547,
+    "longitude": 79.056027
+  },
+  {
+    "city": "Nagpur",
+    "area": "Manish Nagar",
+    "locality_id": "ZWL001041",
+    "latitude": 21.091663,
+    "longitude": 79.072458
+  },
+  {
+    "city": "Nagpur",
+    "area": "Ayodhya Nagar",
+    "locality_id": "ZWL007188",
+    "latitude": 21.103625,
+    "longitude": 79.104888
+  },
+  {
+    "city": "Nagpur",
+    "area": "Gandhibagh",
+    "locality_id": "ZWL003633",
+    "latitude": 21.146868,
+    "longitude": 79.103994
+  },
+  {
+    "city": "Mysore",
+    "area": "Central Mysore",
+    "locality_id": "ZWL002458",
+    "latitude": 12.326689,
+    "longitude": 76.633539
+  },
+  {
+    "city": "Surat",
+    "area": "Udhna",
+    "locality_id": "ZWL005095",
+    "latitude": 21.166218,
+    "longitude": 72.850231
+  },
+  {
+    "city": "Surat",
+    "area": "City Light",
+    "locality_id": "ZWL002155",
+    "latitude": 21.159272,
+    "longitude": 72.791465
+  },
+  {
+    "city": "Surat",
+    "area": "Athwa",
+    "locality_id": "ZWL007951",
+    "latitude": 21.168804,
+    "longitude": 72.803931
+  },
+  {
+    "city": "Surat",
+    "area": "Vesu",
+    "locality_id": "ZWL006000",
+    "latitude": 21.136777,
+    "longitude": 72.762895
+  },
+  {
+    "city": "Surat",
+    "area": "Adajan",
+    "locality_id": "ZWL008198",
+    "latitude": 21.211151,
+    "longitude": 72.79311
+  },
+  {
+    "city": "Surat",
+    "area": "Varaccha",
+    "locality_id": "ZWL002771",
+    "latitude": 21.210937,
+    "longitude": 72.857374
+  },
+  {
+    "city": "Surat",
+    "area": "New Textile Market",
+    "locality_id": "ZWL005626",
+    "latitude": 21.199018,
+    "longitude": 72.828239
+  },
+  {
+    "city": "Surat",
+    "area": "Katargam",
+    "locality_id": "ZWL005423",
+    "latitude": 21.231792,
+    "longitude": 72.82423
+  },
+  {
+    "city": "Trivandrum",
+    "area": "Kazhakoottam",
+    "locality_id": "ZWL009343",
+    "latitude": 8.57517,
+    "longitude": 76.904888
+  },
+  {
+    "city": "Trivandrum",
+    "area": "Tvm Central",
+    "locality_id": "ZWL007746",
+    "latitude": 8.490977,
+    "longitude": 76.96925
+  },
+  {
+    "city": "Trivandrum",
+    "area": "Nemom",
+    "locality_id": "ZWL002223",
+    "latitude": 8.430376,
+    "longitude": 77.027424
+  },
+  {
+    "city": "Vijayawada",
+    "area": "Governorpet",
+    "locality_id": "ZWL005308",
+    "latitude": 16.520989,
+    "longitude": 80.63634
+  },
+  {
+    "city": "Vijayawada",
+    "area": "Gunadala",
+    "locality_id": "ZWL004428",
+    "latitude": 16.515748,
+    "longitude": 80.690025
+  },
+  {
+    "city": "Vijayawada",
+    "area": "Gollapudi",
+    "locality_id": "ZWL002106",
+    "latitude": 16.541337,
+    "longitude": 80.585061
+  },
+  {
+    "city": "Vijayawada",
+    "area": "Auto Nagar",
+    "locality_id": "ZWL005858",
+    "latitude": 16.487591,
+    "longitude": 80.68556
+  },
+  {
+    "city": "Vijayawada",
+    "area": "Labbipet",
+    "locality_id": "ZWL003905",
+    "latitude": 16.510686,
+    "longitude": 80.648812
+  },
+  {
+    "city": "Jalandhar",
+    "area": "Shastri Nagar",
+    "locality_id": "ZWL009921",
+    "latitude": 31.323693,
+    "longitude": 75.583627
+  },
+  {
+    "city": "Jalandhar",
+    "area": "Gurdev Nagar",
+    "locality_id": "ZWL002344",
+    "latitude": 31.347368,
+    "longitude": 75.566556
+  },
+  {
+    "city": "Jalandhar",
+    "area": "Paragpur",
+    "locality_id": "ZWL003298",
+    "latitude": 31.313297,
+    "longitude": 75.571748
+  },
+  {
+    "city": "Jalandhar",
+    "area": "Basti Nau",
+    "locality_id": "ZWL001624",
+    "latitude": 31.327456,
+    "longitude": 75.549901
+  },
+  {
+    "city": "Jalandhar",
+    "area": "Rama Mandi",
+    "locality_id": "ZWL004713",
+    "latitude": 31.314281,
+    "longitude": 75.617635
+  },
+  {
+    "city": "Jammu",
+    "area": "Greater Kailash",
+    "locality_id": "ZWL007457",
+    "latitude": 32.670712,
+    "longitude": 74.901243
+  },
+  {
+    "city": "Jammu",
+    "area": "Barnai",
+    "locality_id": "ZWL005892",
+    "latitude": 32.755253,
+    "longitude": 74.825204
+  },
+  {
+    "city": "Jammu",
+    "area": "Gandhi Nagar",
+    "locality_id": "ZWL008753",
+    "latitude": 32.704392,
+    "longitude": 74.86483
+  },
+  {
+    "city": "Jammu",
+    "area": "OLD JAMMU",
+    "locality_id": "ZWL008047",
+    "latitude": 32.727614,
+    "longitude": 74.856395
+  },
+  {
+    "city": "Jammu",
+    "area": "Channi Himmat",
+    "locality_id": "ZWL002687",
+    "latitude": 32.69074,
+    "longitude": 74.886902
+  },
+  {
+    "city": "Raipur",
+    "area": "Shankar Nagar",
+    "locality_id": "ZWL003195",
+    "latitude": 21.251392,
+    "longitude": 81.66385
+  },
+  {
+    "city": "Raipur",
+    "area": "Purena",
+    "locality_id": "ZWL009896",
+    "latitude": 21.235636,
+    "longitude": 81.69246
+  },
+  {
+    "city": "Raipur",
+    "area": "Mowa",
+    "locality_id": "ZWL001038",
+    "latitude": 21.272467,
+    "longitude": 81.6711
+  },
+  {
+    "city": "Raipur",
+    "area": "Mahaveer Nagar",
+    "locality_id": "ZWL008872",
+    "latitude": 21.21073,
+    "longitude": 81.640523
+  },
+  {
+    "city": "Raipur",
+    "area": "Samta Colony",
+    "locality_id": "ZWL004310",
+    "latitude": 21.243164,
+    "longitude": 81.621252
+  },
+  {
+    "city": "Raipur",
+    "area": "Civil Lines",
+    "locality_id": "ZWL006651",
+    "latitude": 21.243402,
+    "longitude": 81.650848
+  },
+  {
+    "city": "Raipur",
+    "area": "Devendra Nagar",
+    "locality_id": "ZWL008695",
+    "latitude": 21.252033,
+    "longitude": 81.65007
+  },
+  {
+    "city": "Raipur",
+    "area": "Moudhapara",
+    "locality_id": "ZWL008436",
+    "latitude": 21.256569,
+    "longitude": 81.627672
+  }
+]
