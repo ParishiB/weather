@@ -71,14 +71,15 @@
 
 import { Suspense } from "react";
 import Weather from "../components/Weather";
-import { useSearchParams } from "next/navigation";
+import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import TopSearch from "../components/TopSearch";
 
 export default function Home() {
-  const searchParams = useSearchParams();
-  const locality_id = searchParams.get("locality_id");
-  const area = searchParams.get("area");
+  const router = useRouter();
+  const { query } = router;
+  const locality_id = query.locality_id as string | null;
+  const area = query.area as string | null;
 
   const [favArr, setFavArr] = useState<any[]>(() => {
     const savedFavArr = localStorage.getItem("favArr");
