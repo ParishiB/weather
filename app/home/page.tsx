@@ -47,7 +47,7 @@
 
 import React, { useEffect } from "react";
 import { useRouter } from "next/navigation";
-import "../app/globals.css";
+import "./../../app/globals.css";
 
 function Page() {
   const router = useRouter();

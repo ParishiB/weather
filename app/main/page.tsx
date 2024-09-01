@@ -29,12 +29,14 @@
 //     </div>
 //   );
 // }
+// app/main/page.tsx
 "use client";
 
-import React, { useEffect, useState } from "react";
 import Weather from "../components/Weather";
 import { useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
 import TopSearch from "../components/TopSearch";
+import SuspenseBoundary from "../components/SuspenseBoundary"; // Import the SuspenseBoundary component
 
 export default function Home() {
   const searchParams = useSearchParams();
@@ -51,14 +53,16 @@ export default function Home() {
   }, [favArr]);
 
   return (
-    <div>
-      <Weather
-        locality_id={locality_id}
-        area={area}
-        favArr={favArr}
-        setFavArr={setFavArr}
-      />
-      <TopSearch />
-    </div>
+    <SuspenseBoundary>
+      <div>
+        <Weather
+          locality_id={locality_id}
+          area={area}
+          favArr={favArr}
+          setFavArr={setFavArr}
+        />
+        <TopSearch />
+      </div>
+    </SuspenseBoundary>
   );
 }
